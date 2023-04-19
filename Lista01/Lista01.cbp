@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Lista01" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Lista01" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Lista01" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Questao01.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao01.h" />
+		<Unit filename="Questao02.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao02.h" />
+		<Unit filename="Questao03.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao03.h" />
+		<Unit filename="Questao04.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao04.h" />
+		<Unit filename="Questao05.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao05.h" />
+		<Unit filename="Questao06.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao06.h" />
+		<Unit filename="Questao07.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao07.h" />
+		<Unit filename="Questao08.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao08.h" />
+		<Unit filename="Questao09.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao09.h" />
+		<Unit filename="Questao10.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao10.h" />
+		<Unit filename="Questao11.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao11.h" />
+		<Unit filename="Questao12.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao12.h" />
+		<Unit filename="Questao13.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao13.h" />
+		<Unit filename="Questao14.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao14.h" />
+		<Unit filename="Questao15.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao15.h" />
+		<Unit filename="Questao16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao16.h" />
+		<Unit filename="Questao17.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao17.h" />
+		<Unit filename="Questao18.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao18.h" />
+		<Unit filename="Questao19.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao19.h" />
+		<Unit filename="Questao20.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao20.h" />
+		<Unit filename="Questao21.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao21.h" />
+		<Unit filename="Questao22.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao22.h" />
+		<Unit filename="Questao23.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao23.h" />
+		<Unit filename="Questao24.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Questao24.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

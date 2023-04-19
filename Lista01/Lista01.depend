@@ -1,0 +1,201 @@
+# depslib dependency file v1.0
+1681944700 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Questao01.h"
+	"Questao02.h"
+	"Questao03.h"
+	"Questao04.h"
+	"Questao05.h"
+	"Questao06.h"
+	"Questao07.h"
+	"Questao08.h"
+	"Questao09.h"
+	"Questao10.h"
+	"Questao11.h"
+	"Questao12.h"
+	"Questao13.h"
+	"Questao14.h"
+	"Questao15.h"
+	"Questao16.h"
+	"Questao17.h"
+	"Questao18.h"
+	"Questao19.h"
+	"Questao20.h"
+	"Questao21.h"
+	"Questao22.h"
+	"Questao23.h"
+	"Questao24.h"
+
+1681929308 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao01.h
+
+1681929471 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao02.h
+
+1681928833 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao01.c
+	<stdio.h>
+	<stdlib.h>
+	"Questao01.h"
+
+1681929537 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao02.c
+	<stdio.h>
+	<stdlib.h>
+	"Questao02.h"
+
+1681929689 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao03.c
+	<stdio.h>
+	<stdlib.h>
+	"Questao03.h"
+
+1681929632 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao03.h
+
+1681929796 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao04.c
+	"Questao04.h"
+	<stdio.h>
+	<stdlib.h>
+
+1681929782 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao04.h
+
+1681929930 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao05.c
+	<stdio.h>
+	<stdlib.h>
+	"Questao05.h"
+
+1681929916 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao05.h
+
+1681930055 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao06.c
+	<stdio.h>
+	<stdlib.h>
+	"Questao06.h"
+
+1681930110 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao06.h
+
+1681930338 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao07.h
+
+1681930413 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao07.c
+	<stdio.h>
+	<stdlib.h>
+	"Questao07.h"
+
+1681930591 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao08.c
+	<stdio.h>
+	<stdlib.h>
+	"Questao08.h"
+
+1681930568 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao08.h
+
+1681930887 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao09.h
+
+1681930876 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao09.c
+	<stdio.h>
+	<stdlib.h>
+	"Questao09.h"
+
+1681931550 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao10.c
+	"Questao10.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1681931579 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao10.h
+
+1681933794 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao11.h
+
+1681933812 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao11.c
+	<stdio.h>
+	<stdlib.h>
+	"Questao11.h"
+
+1681934043 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao12.h
+
+1681934211 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao13.h
+
+1681934086 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao12.c
+	<stdio.h>
+	<stdlib.h>
+	"Questao12.h"
+
+1681934240 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao13.c
+	<stdio.h>
+	<stdlib.h>
+	"Questao13.h"
+
+1681934509 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao14.c
+	<stdio.h>
+	<stdlib.h>
+	"Questao14.h"
+
+1681934496 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao14.h
+
+1681934588 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao15.c
+	<stdio.h>
+	<stdlib.h>
+	"Questao15.h"
+
+1681934600 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao15.h
+
+1681934896 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao16.c
+	"Questao16.h"
+	<stdio.h>
+	<stdlib.h>
+
+1681934920 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao16.h
+
+1681935006 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao17.c
+	<stdio.h>
+	<stdlib.h>
+	"Questao17.h"
+
+1681935017 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao17.h
+
+1681935180 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao18.h
+
+1681935200 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao18.c
+	"Questao18.h"
+	<stdio.h>
+	<stdlib.h>
+
+1681940858 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao19.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Questao19.h"
+
+1681940877 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao19.h
+
+1681940986 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao20.c
+	"Questao20.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1681941025 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao20.h
+
+1681941166 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao21.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Questao21.h"
+
+1681941151 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao21.h
+
+1681941258 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao22.c
+	<stdio.h>
+	<stdlib.h>
+	"Questao22.h"
+
+1681941234 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao22.h
+
+1681941304 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao23.c
+	<stdio.h>
+	<stdlib.h>
+	"Questao23.h"
+
+1681941425 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao23.h
+
+1681943326 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao24.h
+
+1681943294 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista01\questao24.c
+	<stdio.h>
+	<stdlib.h>
+	"Questao24.h"
+
