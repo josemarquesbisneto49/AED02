@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1684527575 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista02\metodos_ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1684527101 source:c:\users\jmcbi\onedrive\documentos\listas\aed2\lista02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sort.h"
+
+1684527031 c:\users\jmcbi\onedrive\documentos\listas\aed2\lista02\sort.h
+
